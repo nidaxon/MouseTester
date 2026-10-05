@@ -10,7 +10,7 @@ Standard Windows mouse events are often throttled by the OS. This program uses t
 * **Lightweight:** Minimal CPU usage and a clean, dark-mode UI.
 
 ## How to Use
-Just launch the program and move your mouse rapidly in continuous circles to test your polling rate.
+Just launch the program and move your mouse rapidly in continuous circles inside the program window to test your polling rate.
 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
